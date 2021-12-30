@@ -1,2 +1,2 @@
 # BayesCapacity
-Bayesian models of capacity across trials
+R documentation and functions for Bayesian model of capacity across trials (time)
